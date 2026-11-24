@@ -1,0 +1,69 @@
+# COMPANY INFORMATION
+
+## 1. Company Overview
+
+Company Name: ABC Financial Services Pvt Ltd
+
+Industry: Banking and Financial Services
+
+Founded: 2015
+
+Head Office: Chennai, Tamil Nadu, India
+
+Company Type: Private Limited Company
+
+ABC Financial Services Pvt Ltd provides financial services to individuals, small businesses, and corporate customers.
+
+## 2. Business Activities
+
+The company provides the following services:
+
+- Personal Loans
+- Business Loans
+- Home Loans
+- Vehicle Loans
+- Financial Consulting
+- Credit Risk Assessment
+- Investment Advisory Services
+
+## 3. Company Departments
+
+The company has five major departments:
+
+1. Finance Department – Handles financial transactions and accounting.
+2. Loan Department – Processes customer loan applications.
+3. Risk Management Department – Evaluates credit and financial risks.
+4. Customer Support Department – Handles customer queries and complaints.
+5. Technology Department – Develops and maintains digital financial applications.
+
+## 4. Employee Information
+
+Total Employees: 250
+
+Finance Team: 40 employees
+
+Technology Team: 60 employees
+
+Loan Processing Team: 70 employees
+
+Customer Support Team: 50 employees
+
+Risk Management Team: 30 employees
+
+## 5. Company Working Hours
+
+Monday to Friday: 9:00 AM to 6:00 PM
+
+Saturday: 9:00 AM to 1:00 PM
+
+Sunday: Holiday
+
+## 6. Company Contact Information
+
+Email: support@abcfinancial.example
+
+Phone: +91-9000000000
+
+Website: www.abcfinancial.example
+
+Note: This is a fictional company created for RAG application testing.

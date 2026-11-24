@@ -1,0 +1,102 @@
+# FINANCIAL AND LOAN APPROVAL POLICIES
+
+## 1. Policy Overview
+
+ABC Financial Services Pvt Ltd follows internal financial policies to evaluate loan applications and manage credit risk.
+
+These policies are fictional and intended for software testing.
+
+## 2. Loan Eligibility Criteria
+
+Applicants must meet the following requirements:
+
+- Minimum Age: 21 years.
+- Maximum Age: 60 years at loan application.
+- Minimum Monthly Income: INR 25,000.
+- Minimum Employment Experience: 1 year.
+- Valid identity and address proof are required.
+
+## 3. Credit Score Requirements
+
+The company uses credit scores to assess borrower creditworthiness.
+
+Credit Score Above 750:
+Eligible for standard loan consideration.
+
+Credit Score Between 650 and 750:
+Requires additional financial review.
+
+Credit Score Below 650:
+Requires enhanced risk assessment and may be rejected.
+
+A credit score alone does not determine final loan approval.
+
+## 4. Required Documents
+
+Applicants must submit:
+
+1. Aadhaar Card or other accepted identity proof.
+2. PAN Card.
+3. Latest three months' salary slips.
+4. Latest six months' bank statements.
+5. Address proof.
+6. Employment verification documents.
+
+## 5. Loan Approval Process
+
+The loan approval process contains five stages:
+
+Stage 1: Application Submission.
+
+Stage 2: Document Verification.
+
+Stage 3: Income and Employment Verification.
+
+Stage 4: Credit Risk Assessment.
+
+Stage 5: Final Loan Approval or Rejection.
+
+## 6. Debt-to-Income Ratio
+
+The company evaluates the applicant's monthly debt obligations compared with monthly income.
+
+Preferred Debt-to-Income Ratio: Below 40%.
+
+If the ratio exceeds 40%, the application requires additional financial assessment.
+
+## 7. Risk Assessment
+
+The risk management team evaluates:
+
+- Credit history.
+- Monthly income.
+- Existing financial obligations.
+- Employment stability.
+- Previous repayment history.
+
+## 8. Data Security Policy
+
+Customer financial information must be protected.
+
+Employees must:
+
+- Use authorized systems to access customer information.
+- Never share customer financial information with unauthorized individuals.
+- Follow access control policies.
+- Protect sensitive personal information.
+- Report suspected data breaches.
+
+## 9. Loan Rejection Conditions
+
+Applications may be rejected when:
+
+- Required documents are missing.
+- Income information cannot be verified.
+- Credit risk is considered too high.
+- Applicant eligibility requirements are not met.
+
+## 10. Final Decision
+
+The loan approval team makes the final decision after reviewing the applicant's documents, financial details, and credit risk assessment.
+
+Note: This is a fictional financial policy document for RAG development and testing.

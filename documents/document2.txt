@@ -1,0 +1,87 @@
+# SAMPLE LOAN AGREEMENT
+
+## 1. Loan Overview
+
+Agreement Number: ABC-LOAN-2026-001
+
+Lender: ABC Financial Services Pvt Ltd
+
+Borrower: Rahul Kumar
+
+Loan Type: Personal Loan
+
+Agreement Date: 15 November 2026
+
+Loan Purpose: Personal financial requirements.
+
+## 2. Loan Amount
+
+Approved Loan Amount: INR 5,00,000
+
+Processing Fee: INR 5,000
+
+Disbursement Amount: INR 4,95,000
+
+Currency: Indian Rupees (INR)
+
+## 3. Interest Rate
+
+Annual Interest Rate: 10.5%
+
+Interest Type: Fixed Interest Rate
+
+Interest Calculation: Monthly reducing balance method.
+
+## 4. Loan Duration
+
+Loan Tenure: 5 Years
+
+Total Repayment Period: 60 Months
+
+Loan Start Date: 1 December 2026
+
+Loan Maturity Date: 1 December 2031
+
+## 5. Monthly Repayment
+
+Estimated Monthly EMI: INR 10,747
+
+Repayment Frequency: Monthly
+
+Payment Due Date: 5th of every month.
+
+First EMI Date: 5 January 2027.
+
+## 6. Late Payment Charges
+
+If the borrower fails to pay the EMI by the due date, a late payment charge of INR 500 may apply.
+
+Additional charges may apply according to the lender's applicable terms.
+
+## 7. Prepayment Conditions
+
+The borrower may repay the outstanding loan amount before the maturity date.
+
+Prepayment Charges: No prepayment charge in this fictional sample agreement.
+
+## 8. Borrower Responsibilities
+
+The borrower must:
+
+- Pay monthly EMI on time.
+- Provide accurate personal and financial information.
+- Maintain sufficient funds for monthly repayments.
+- Inform the lender about changes in contact information.
+
+## 9. Lender Responsibilities
+
+The lender must:
+
+- Disburse the approved loan amount.
+- Provide repayment statements.
+- Maintain borrower information securely.
+- Provide customer support for loan-related queries.
+
+## 10. Important Note
+
+This is a fictional loan agreement created for software development and RAG testing. It is not a legally binding agreement, real credit offer, or financial advice.
